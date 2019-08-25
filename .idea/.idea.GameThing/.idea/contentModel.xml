@@ -477,9 +477,7 @@
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Temp" t="ExcludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-      </e>
+      <e p="Temp\bin" t="ExcludeRecursive" />
       <e p="Zenject-Editor.csproj" t="IncludeRecursive" />
       <e p="Zenject-PoolMonitor-Editor.csproj" t="IncludeRecursive" />
       <e p="Zenject-ReflectionBaking-Editor.csproj" t="IncludeRecursive" />
