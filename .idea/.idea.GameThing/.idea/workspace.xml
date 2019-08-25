@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f3f70dc-f085-4194-9173-3a661130c3a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GameThing/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/JumpCommandHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1566757608845" expanded="false" signature="6:79" ph="..." />
+                <marker date="1566757608845" expanded="true" signature="101:680" ph="{...}" />
+                <marker date="1566757608845" expanded="true" signature="152:677" ph="{...}" />
+                <marker date="1566757608845" expanded="true" signature="155:311" ph="Private fields" />
+                <marker date="1566757608845" expanded="false" signature="313:502" ph="region methods" />
+                <marker date="1566757608845" expanded="true" signature="378:490" ph="{...}" />
+                <marker date="1566757608845" expanded="true" signature="447:486" ph="{...}" />
+                <marker date="1566757608845" expanded="false" signature="504:673" ph="Public methods" />
+                <marker date="1566757608845" expanded="true" signature="559:613" ph="{...}" />
+                <marker date="1566757608845" expanded="true" signature="638:660" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/EatingSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1566749565612" expanded="false" signature="6:47" ph="..." />
+                <marker date="1566749565612" expanded="true" signature="69:531" ph="{...}" />
+                <marker date="1566749565612" expanded="true" signature="114:528" ph="{...}" />
+                <marker date="1566749565612" expanded="false" signature="117:203" ph="Private fields" />
+                <marker date="1566749565612" expanded="true" signature="205:402" ph="Private methods" />
+                <marker date="1566749565612" expanded="true" signature="264:286" ph="{...}" />
+                <marker date="1566749565612" expanded="true" signature="328:390" ph="{...}" />
+                <marker date="1566749565612" expanded="true" signature="404:525" ph="Public methods" />
+                <marker date="1566749565612" expanded="true" signature="459:513" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/WallSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+              <folding>
+                <marker date="1566746295954" expanded="false" signature="6:81" ph="..." />
+                <marker date="1566746295954" expanded="true" signature="103:2387" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="146:2384" ph="{...}" />
+                <marker date="1566746295954" expanded="false" signature="149:543" ph="Private fields" />
+                <marker date="1566746295954" expanded="true" signature="545:1935" ph="Private methods" />
+                <marker date="1566746295954" expanded="true" signature="608:840" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="888:959" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="1034:1435" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="1072:1432" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="1480:1555" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="1517:1552" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="1606:1702" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="1662:1683" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="1790:1923" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="1868:1920" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="1937:2381" ph="Unity Events" />
+                <marker date="1566746295954" expanded="true" signature="1981:2277" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="2035:2126" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="2069:2122" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="2181:2273" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="2215:2269" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="2302:2369" ph="{...}" />
+                <marker date="1566746295954" expanded="true" signature="2341:2366" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/LavaSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="48" />
+              <folding>
+                <marker date="1566744375017" expanded="false" signature="6:62" ph="..." />
+                <marker date="1566744375017" expanded="true" signature="84:589" ph="{...}" />
+                <marker date="1566744375017" expanded="true" signature="127:586" ph="{...}" />
+                <marker date="1566744375017" expanded="false" signature="131:270" ph="Private fields" />
+                <marker date="1566744375017" expanded="true" signature="273:459" ph="Unity Events" />
+                <marker date="1566744375017" expanded="true" signature="351:447" ph="{...}" />
+                <marker date="1566744375017" expanded="true" signature="420:444" ph="{...}" />
+                <marker date="1566744375017" expanded="true" signature="461:583" ph="Unity Events" />
+                <marker date="1566744375017" expanded="true" signature="505:571" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/GameObjectCollisionHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="39" />
+              <folding>
+                <marker date="1566744229307" expanded="false" signature="6:32" ph="..." />
+                <marker date="1566744229307" expanded="true" signature="54:436" ph="{...}" />
+                <marker date="1566744229307" expanded="true" signature="113:433" ph="{...}" />
+                <marker date="1566744229307" expanded="true" signature="116:348" ph="Unity Events" />
+                <marker date="1566744229307" expanded="true" signature="186:238" ph="{...}" />
+                <marker date="1566744229307" expanded="true" signature="284:336" ph="{...}" />
+                <marker date="1566744229307" expanded="true" signature="350:430" ph="Events" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Factories/FoodFactory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <marker date="1566753888824" expanded="false" signature="6:32" ph="..." />
+                <marker date="1566753888824" expanded="true" signature="54:1042" ph="{...}" />
+                <marker date="1566753888824" expanded="true" signature="98:1039" ph="{...}" />
+                <marker date="1566753888824" expanded="false" signature="101:327" ph="Private fields" />
+                <marker date="1566753888824" expanded="true" signature="329:1036" ph="Public methods" />
+                <marker date="1566753888824" expanded="true" signature="413:712" ph="{...}" />
+                <marker date="1566753888824" expanded="true" signature="737:1024" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/JumpSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <marker date="1566748589963" expanded="false" signature="6:66" ph="..." />
+                <marker date="1566748589963" expanded="true" signature="88:1716" ph="{...}" />
+                <marker date="1566748589963" expanded="true" signature="131:1713" ph="{...}" />
+                <marker date="1566748589963" expanded="false" signature="134:438" ph="Private fields" />
+                <marker date="1566748589963" expanded="false" signature="440:1241" ph="Private methods" />
+                <marker date="1566748589963" expanded="true" signature="500:1123" ph="{...}" />
+                <marker date="1566748589963" expanded="true" signature="957:988" ph="{...}" />
+                <marker date="1566748589963" expanded="true" signature="1166:1229" ph="{...}" />
+                <marker date="1566748589963" expanded="false" signature="1243:1592" ph="Public methods" />
+                <marker date="1566748589963" expanded="true" signature="1304:1469" ph="{...}" />
+                <marker date="1566748589963" expanded="true" signature="1339:1466" ph="{...}" />
+                <marker date="1566748589963" expanded="true" signature="1511:1580" ph="{...}" />
+                <marker date="1566748589963" expanded="true" signature="1545:1577" ph="{...}" />
+                <marker date="1566748589963" expanded="false" signature="1594:1710" ph="Unity Events" />
+                <marker date="1566748589963" expanded="true" signature="1639:1698" ph="{...}" />
+                <marker date="1566748589963" expanded="true" signature="1674:1695" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/FoodGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <marker date="1566753953460" expanded="false" signature="6:47" ph="..." />
+                <marker date="1566753953460" expanded="true" signature="69:786" ph="{...}" />
+                <marker date="1566753953460" expanded="true" signature="115:783" ph="{...}" />
+                <marker date="1566753953460" expanded="true" signature="118:309" ph="Private fields" />
+                <marker date="1566753953460" expanded="true" signature="311:585" ph="Private methods" />
+                <marker date="1566753953460" expanded="true" signature="367:395" ph="{...}" />
+                <marker date="1566753953460" expanded="true" signature="424:502" ph="{...}" />
+                <marker date="1566753953460" expanded="true" signature="528:573" ph="{...}" />
+                <marker date="1566753953460" expanded="true" signature="587:708" ph="Unity Events" />
+                <marker date="1566753953460" expanded="true" signature="632:696" ph="{...}" />
+                <marker date="1566753953460" expanded="true" signature="674:693" ph="{...}" />
+                <marker date="1566753953460" expanded="true" signature="710:780" ph="Events" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/InterfaceGameThingInstaller.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+              <folding>
+                <marker date="1566738183781" expanded="false" signature="6:84" ph="..." />
+                <marker date="1566738183781" expanded="true" signature="106:464" ph="{...}" />
+                <marker date="1566738183781" expanded="true" signature="166:461" ph="{...}" />
+                <marker date="1566738183781" expanded="true" signature="169:330" ph="Private fields" />
+                <marker date="1566738183781" expanded="true" signature="332:458" ph="Public methods" />
+                <marker date="1566738183781" expanded="true" signature="396:446" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocationGameThingInstaller.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+              <folding>
+                <marker date="1566757608856" expanded="false" signature="6:64" ph="..." />
+                <marker date="1566757608856" expanded="true" signature="86:1768" ph="{...}" />
+                <marker date="1566757608856" expanded="true" signature="145:1765" ph="{...}" />
+                <marker date="1566757608856" expanded="false" signature="148:742" ph="Private fields" />
+                <marker date="1566757608856" expanded="true" signature="744:1762" ph="Public methods" />
+                <marker date="1566757608856" expanded="true" signature="808:1697" ph="{...}" />
+                <marker date="1566757608856" expanded="true" signature="1721:1750" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Create</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/FoodGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/JumpSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/JumpCommandHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocationGameThingInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Factories/FoodFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Entities/BaseFood.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Entities/Thing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/GameObjectCollisionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/LavaSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/EatingSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/interfaces/IEater.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InterfaceGameThingInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/WallSystem.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/EatingSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameThing/Entities/BaseFly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameThing/Entities/BaseFood.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameThing/Factories/FliesFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/FoodGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LocationGameThingInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/JumpController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/JumpCommandHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="563" />
+    <option name="y" value="37" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="GameThing" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="GameThing" type="1045f7f1:UnityExplorerNode" />
+              <item name="Controllers" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="GameThing" type="1045f7f1:UnityExplorerNode" />
+              <item name="Entities" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="GameThing" type="1045f7f1:UnityExplorerNode" />
+              <item name="Factories" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="GameThing" type="1045f7f1:UnityExplorerNode" />
+              <item name="interfaces" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="GameThing" type="1045f7f1:UnityExplorerNode" />
+              <item name="Systems" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="GameThing" type="1045f7f1:UnityExplorerNode" />
+              <item name="UI" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="GameThing" type="1045f7f1:UnityExplorerNode" />
+              <item name="Utils" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f3f70dc-f085-4194-9173-3a661130c3a3" name="Default Changelist" comment="" />
+      <created>1566749332774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566749332774</updated>
+      <workItem from="1566749338010" duration="833000" />
+      <workItem from="1566753386278" duration="4376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5209000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="13" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Unity" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/interfaces/IEater.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1566740480435" expanded="true" signature="36:99" ph="{...}" />
+            <marker date="1566740480435" expanded="true" signature="63:96" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Entities/BaseFood.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <marker date="1566753738043" expanded="false" signature="6:32" ph="..." />
+            <marker date="1566753738043" expanded="true" signature="54:717" ph="{...}" />
+            <marker date="1566753738043" expanded="true" signature="102:714" ph="{...}" />
+            <marker date="1566753738043" expanded="true" signature="106:242" ph="Private fields" />
+            <marker date="1566753738043" expanded="true" signature="245:438" ph="Private methods" />
+            <marker date="1566753738043" expanded="true" signature="305:425" ph="{...}" />
+            <marker date="1566753738043" expanded="true" signature="441:553" ph="Public methods" />
+            <marker date="1566753738043" expanded="true" signature="489:540" ph="{...}" />
+            <marker date="1566753738043" expanded="true" signature="556:618" ph="Events" />
+            <marker date="1566753738043" expanded="true" signature="621:711" ph="Unity Events" />
+            <marker date="1566753738043" expanded="true" signature="669:698" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/interfaces/IFly.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Entities/Thing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <marker date="1566746279658" expanded="false" signature="6:32" ph="..." />
+            <marker date="1566746279658" expanded="true" signature="54:1210" ph="{...}" />
+            <marker date="1566746279658" expanded="true" signature="126:1207" ph="{...}" />
+            <marker date="1566746279658" expanded="false" signature="130:243" ph="Private fields" />
+            <marker date="1566746279658" expanded="false" signature="245:427" ph="IVelcro" />
+            <marker date="1566746279658" expanded="true" signature="283:326" ph="{...}" />
+            <marker date="1566746279658" expanded="true" signature="429:741" ph="IJumper" />
+            <marker date="1566746279658" expanded="true" signature="466:555" ph="{...}" />
+            <marker date="1566746279658" expanded="true" signature="667:728" ph="{...}" />
+            <marker date="1566746279658" expanded="true" signature="743:819" ph="IHero" />
+            <marker date="1566746279658" expanded="true" signature="780:807" ph="{...}" />
+            <marker date="1566746279658" expanded="true" signature="821:886" ph="IEater" />
+            <marker date="1566746279658" expanded="false" signature="888:1133" ph="Unity Events" />
+            <marker date="1566746279658" expanded="true" signature="936:965" ph="{...}" />
+            <marker date="1566746279658" expanded="true" signature="1012:1121" ph="{...}" />
+            <marker date="1566746279658" expanded="true" signature="1087:1118" ph="{...}" />
+            <marker date="1566746279658" expanded="true" signature="1136:1204" ph="Unity Events" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Factories/FoodFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <marker date="1566753888824" expanded="false" signature="6:32" ph="..." />
+            <marker date="1566753888824" expanded="true" signature="54:1042" ph="{...}" />
+            <marker date="1566753888824" expanded="true" signature="98:1039" ph="{...}" />
+            <marker date="1566753888824" expanded="false" signature="101:327" ph="Private fields" />
+            <marker date="1566753888824" expanded="true" signature="329:1036" ph="Public methods" />
+            <marker date="1566753888824" expanded="true" signature="413:712" ph="{...}" />
+            <marker date="1566753888824" expanded="true" signature="737:1024" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/JumpSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1566748589963" expanded="false" signature="6:66" ph="..." />
+            <marker date="1566748589963" expanded="true" signature="88:1716" ph="{...}" />
+            <marker date="1566748589963" expanded="true" signature="131:1713" ph="{...}" />
+            <marker date="1566748589963" expanded="false" signature="134:438" ph="Private fields" />
+            <marker date="1566748589963" expanded="false" signature="440:1241" ph="Private methods" />
+            <marker date="1566748589963" expanded="true" signature="500:1123" ph="{...}" />
+            <marker date="1566748589963" expanded="true" signature="957:988" ph="{...}" />
+            <marker date="1566748589963" expanded="true" signature="1166:1229" ph="{...}" />
+            <marker date="1566748589963" expanded="false" signature="1243:1592" ph="Public methods" />
+            <marker date="1566748589963" expanded="true" signature="1304:1469" ph="{...}" />
+            <marker date="1566748589963" expanded="true" signature="1339:1466" ph="{...}" />
+            <marker date="1566748589963" expanded="true" signature="1511:1580" ph="{...}" />
+            <marker date="1566748589963" expanded="true" signature="1545:1577" ph="{...}" />
+            <marker date="1566748589963" expanded="false" signature="1594:1710" ph="Unity Events" />
+            <marker date="1566748589963" expanded="true" signature="1639:1698" ph="{...}" />
+            <marker date="1566748589963" expanded="true" signature="1674:1695" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/EatingSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1566749565612" expanded="false" signature="6:47" ph="..." />
+            <marker date="1566749565612" expanded="true" signature="69:531" ph="{...}" />
+            <marker date="1566749565612" expanded="true" signature="114:528" ph="{...}" />
+            <marker date="1566749565612" expanded="false" signature="117:203" ph="Private fields" />
+            <marker date="1566749565612" expanded="true" signature="205:402" ph="Private methods" />
+            <marker date="1566749565612" expanded="true" signature="264:286" ph="{...}" />
+            <marker date="1566749565612" expanded="true" signature="328:390" ph="{...}" />
+            <marker date="1566749565612" expanded="true" signature="404:525" ph="Public methods" />
+            <marker date="1566749565612" expanded="true" signature="459:513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/WallSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+          <folding>
+            <marker date="1566746295954" expanded="false" signature="6:81" ph="..." />
+            <marker date="1566746295954" expanded="true" signature="103:2387" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="146:2384" ph="{...}" />
+            <marker date="1566746295954" expanded="false" signature="149:543" ph="Private fields" />
+            <marker date="1566746295954" expanded="true" signature="545:1935" ph="Private methods" />
+            <marker date="1566746295954" expanded="true" signature="608:840" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="888:959" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="1034:1435" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="1072:1432" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="1480:1555" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="1517:1552" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="1606:1702" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="1662:1683" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="1790:1923" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="1868:1920" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="1937:2381" ph="Unity Events" />
+            <marker date="1566746295954" expanded="true" signature="1981:2277" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="2035:2126" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="2069:2122" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="2181:2273" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="2215:2269" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="2302:2369" ph="{...}" />
+            <marker date="1566746295954" expanded="true" signature="2341:2366" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Systems/LavaSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <marker date="1566744375017" expanded="false" signature="6:62" ph="..." />
+            <marker date="1566744375017" expanded="true" signature="84:589" ph="{...}" />
+            <marker date="1566744375017" expanded="true" signature="127:586" ph="{...}" />
+            <marker date="1566744375017" expanded="false" signature="131:270" ph="Private fields" />
+            <marker date="1566744375017" expanded="true" signature="273:459" ph="Unity Events" />
+            <marker date="1566744375017" expanded="true" signature="351:447" ph="{...}" />
+            <marker date="1566744375017" expanded="true" signature="420:444" ph="{...}" />
+            <marker date="1566744375017" expanded="true" signature="461:583" ph="Unity Events" />
+            <marker date="1566744375017" expanded="true" signature="505:571" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/FoodGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <marker date="1566753953460" expanded="false" signature="6:47" ph="..." />
+            <marker date="1566753953460" expanded="true" signature="69:786" ph="{...}" />
+            <marker date="1566753953460" expanded="true" signature="115:783" ph="{...}" />
+            <marker date="1566753953460" expanded="true" signature="118:309" ph="Private fields" />
+            <marker date="1566753953460" expanded="true" signature="311:585" ph="Private methods" />
+            <marker date="1566753953460" expanded="true" signature="367:395" ph="{...}" />
+            <marker date="1566753953460" expanded="true" signature="424:502" ph="{...}" />
+            <marker date="1566753953460" expanded="true" signature="528:573" ph="{...}" />
+            <marker date="1566753953460" expanded="true" signature="587:708" ph="Unity Events" />
+            <marker date="1566753953460" expanded="true" signature="632:696" ph="{...}" />
+            <marker date="1566753953460" expanded="true" signature="674:693" ph="{...}" />
+            <marker date="1566753953460" expanded="true" signature="710:780" ph="Events" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InterfaceGameThingInstaller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <marker date="1566738183781" expanded="false" signature="6:84" ph="..." />
+            <marker date="1566738183781" expanded="true" signature="106:464" ph="{...}" />
+            <marker date="1566738183781" expanded="true" signature="166:461" ph="{...}" />
+            <marker date="1566738183781" expanded="true" signature="169:330" ph="Private fields" />
+            <marker date="1566738183781" expanded="true" signature="332:458" ph="Public methods" />
+            <marker date="1566738183781" expanded="true" signature="396:446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocationGameThingInstaller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+          <folding>
+            <marker date="1566757608856" expanded="false" signature="6:64" ph="..." />
+            <marker date="1566757608856" expanded="true" signature="86:1768" ph="{...}" />
+            <marker date="1566757608856" expanded="true" signature="145:1765" ph="{...}" />
+            <marker date="1566757608856" expanded="false" signature="148:742" ph="Private fields" />
+            <marker date="1566757608856" expanded="true" signature="744:1762" ph="Public methods" />
+            <marker date="1566757608856" expanded="true" signature="808:1697" ph="{...}" />
+            <marker date="1566757608856" expanded="true" signature="1721:1750" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/JumpCommandHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1566757608845" expanded="false" signature="6:79" ph="..." />
+            <marker date="1566757608845" expanded="true" signature="101:680" ph="{...}" />
+            <marker date="1566757608845" expanded="true" signature="152:677" ph="{...}" />
+            <marker date="1566757608845" expanded="true" signature="155:311" ph="Private fields" />
+            <marker date="1566757608845" expanded="false" signature="313:502" ph="region methods" />
+            <marker date="1566757608845" expanded="true" signature="378:490" ph="{...}" />
+            <marker date="1566757608845" expanded="true" signature="447:486" ph="{...}" />
+            <marker date="1566757608845" expanded="false" signature="504:673" ph="Public methods" />
+            <marker date="1566757608845" expanded="true" signature="559:613" ph="{...}" />
+            <marker date="1566757608845" expanded="true" signature="638:660" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameThing/Controllers/GameObjectCollisionHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <marker date="1566744229307" expanded="false" signature="6:32" ph="..." />
+            <marker date="1566744229307" expanded="true" signature="54:436" ph="{...}" />
+            <marker date="1566744229307" expanded="true" signature="113:433" ph="{...}" />
+            <marker date="1566744229307" expanded="true" signature="116:348" ph="Unity Events" />
+            <marker date="1566744229307" expanded="true" signature="186:238" ph="{...}" />
+            <marker date="1566744229307" expanded="true" signature="284:336" ph="{...}" />
+            <marker date="1566744229307" expanded="true" signature="350:430" ph="Events" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
